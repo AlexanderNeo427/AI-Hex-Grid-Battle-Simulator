@@ -1,0 +1,49 @@
+﻿  Application.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Application.h(5,10): fatal error C1083: Cannot open include file: 'timer.h': No such file or directory
+  Camera.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Camera.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  Entity.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Entities\Entity.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  LoadOBJ.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Vertex.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  LoadTGA.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\LoadTGA.cpp(4,10): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  main.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Application.h(5,10): fatal error C1083: Cannot open include file: 'timer.h': No such file or directory
+  Maze.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Maze\Tile.h(5,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  MazeGenerator.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Maze\Tile.h(5,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  MazePt.cpp
+  Tile.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Maze\Tile.h(5,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  Mesh.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Mesh.cpp(3,10): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  MeshBuilder.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Vertex.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  PostOffice.cpp
+  SceneA2.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\SceneBase.h(5,10): fatal error C1083: Cannot open include file: 'Mtx44.h': No such file or directory
+  SceneBase.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\SceneBase.h(5,10): fatal error C1083: Cannot open include file: 'Mtx44.h': No such file or directory
+  SceneData.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\SceneData.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  SceneHex.cpp
+  shader.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\shader.cpp(12,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  State.cpp
+  StateMachine.cpp
+  Generating Code...
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\States\StateMachine.cpp(51): warning C4172: returning address of local variable or temporary
+  Compiling...
+  StatesArcher.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Entities\Entity.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  StatesMedic.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Entities\Entity.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  StatesSoldier.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Entities\Entity.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  StatesTank.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Entities\Entity.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  Utility.cpp
+D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\AI\Source\Utility.h(4,10): fatal error C1083: Cannot open include file: 'Mtx44.h': No such file or directory
+  Generating Code...

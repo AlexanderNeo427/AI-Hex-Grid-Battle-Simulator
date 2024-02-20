@@ -1,0 +1,2 @@
+# NYP-AI-Assignment-2
+  Turn-based game/simulation, played by 2 AI teams (RED vs BLUE). Made with C++ and OpenGL. Each tile type has a different colour and movement cost. Each AI unit type has a different movement range, as well as range of vision. Their range of vision will slowly reveal the map (the glowing tiles, showing each units' field of view) - Randomly generated tile types, using a sort of pseudo-perlin noise (discouraged from using external libraries for project) - A* pathfinding, AI units will try to find the most optimal path between tiles

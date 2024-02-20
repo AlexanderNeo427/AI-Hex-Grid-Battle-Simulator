@@ -1,5 +1,0 @@
-﻿timer.obj : error LNK2019: unresolved external symbol __imp_timeGetDevCaps referenced in function "public: __cdecl StopWatch::StopWatch(void)" (??0StopWatch@@QEAA@XZ)
-timer.obj : error LNK2019: unresolved external symbol __imp_timeBeginPeriod referenced in function "public: __cdecl StopWatch::StopWatch(void)" (??0StopWatch@@QEAA@XZ)
-timer.obj : error LNK2019: unresolved external symbol __imp_timeEndPeriod referenced in function "public: __cdecl StopWatch::~StopWatch(void)" (??1StopWatch@@QEAA@XZ)
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-D:\_Downloads\NYP GradShow Projects\180538A_AlexanderNeo_AIGame_A2\x64\Debug\Common.exe : fatal error LNK1120: 4 unresolved externals

@@ -1,0 +1,9 @@
+﻿  MatrixStack.cpp
+  Mtx44.cpp
+  timer.cpp
+  Vector3.cpp
+timer.obj : error LNK2001: unresolved external symbol __imp_timeGetDevCaps
+timer.obj : error LNK2001: unresolved external symbol __imp_timeEndPeriod
+timer.obj : error LNK2001: unresolved external symbol __imp_timeBeginPeriod
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\x64\Release\Common.exe : fatal error LNK1120: 4 unresolved externals

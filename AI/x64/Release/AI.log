@@ -1,0 +1,26 @@
+﻿  Application.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\Application.h(5,10): fatal error C1083: Cannot open include file: 'timer.h': No such file or directory
+  Camera.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\Camera.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  GameObject.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\GameObject.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  LoadOBJ.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\Vertex.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  LoadTGA.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\LoadTGA.cpp(4,10): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  main.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\Application.h(5,10): fatal error C1083: Cannot open include file: 'timer.h': No such file or directory
+  Mesh.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\Mesh.cpp(3,10): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  MeshBuilder.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\Vertex.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  SceneBase.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\SceneBase.h(5,10): fatal error C1083: Cannot open include file: 'Mtx44.h': No such file or directory
+  SceneMovement.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\GameObject.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  SceneTicTacToe.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\GameObject.h(4,10): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+  shader.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\shader.cpp(12,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Utility.cpp
+C:\1)_GDT_Homework\1) AI Game\Week 1\Practical\DM2242_AI\AI\Source\Utility.h(4,10): fatal error C1083: Cannot open include file: 'Mtx44.h': No such file or directory

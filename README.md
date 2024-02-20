@@ -1,2 +1,18 @@
 # NYP-AI-Assignment-2
-  Turn-based game/simulation, played by 2 AI teams (RED vs BLUE). Made with C++ and OpenGL. Each tile type has a different colour and movement cost. Each AI unit type has a different movement range, as well as range of vision. Their range of vision will slowly reveal the map (the glowing tiles, showing each units' field of view) - Randomly generated tile types, using a sort of pseudo-perlin noise (discouraged from using external libraries for project) - A* pathfinding, AI units will try to find the most optimal path between tiles
+
+## Features
+* Turn-based game/simulation, played by 2 AI teams (RED vs BLUE)
+* Made with C++ and OpenGL
+* Each tile type has a different colour and movement cost
+* Each AI unit type has a different movement range/range of vision. Their range of vision will slowly reveal the map (the glowing tiles, visualisaing each units' field of view) 
+* Fun random events! Such as:
+  * Meteor explosion every once in awhile
+  * Occasionally an AI unit will spontaneously drop dead
+
+## Technical Stuffs
+* Randomly generated tile types, using a sort of pseudo-perlin noise. Referenced algorithm from this page: https://rtouti.github.io/graphics/perlin-noise-algorithm
+* A* pathfinding for units to optimize the cost of traversing nodes
+* Each AI has an instance of a State Machine that controls its behaviour
+* Utilizing "Messaging/Event-Drven/Event Queue" architecture for cross-gameObject communication within the game scene
+* A basic Object Pool
+

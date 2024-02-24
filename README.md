@@ -1,4 +1,6 @@
-# NYP-AI-Assignment-2
+# AI Hex Grid Battle Simulator
+
+Assignment 2 of my "AI in Games" module that I took in Nanyang Polytechnic (NYP), gameplay can be found [here](https://youtu.be/0HoxhoJ2Qgs?si=PGTMR4yeNYzOFAhI)
 
 ### Features
 * Turn-based game/simulation, played by 2 AI teams (RED vs BLUE)

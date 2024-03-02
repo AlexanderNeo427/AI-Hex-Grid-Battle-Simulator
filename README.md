@@ -15,6 +15,6 @@ Assignment 2 of my "AI in Games" module that I took in Nanyang Polytechnic (NYP)
 * Randomly generated tile types, using a sort of pseudo-perlin noise. Referenced algorithm from [this page](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 * A* pathfinding for units to optimize the cost of traversing nodes
 * Each AI has an instance of a State Machine that controls its behaviour
-* Utilizing "Messaging/Event-Drven/Event Queue" architecture for cross-gameObject communication within the game scene
+* Utilizing "Messaging/Event-Driven/Event-Queue" architecture for cross-gameObject communication within the game scene
 * A basic Object Pool
 * Hex Grid movement, courtesy of the article by [Red Blob Games](https://www.redblobgames.com/grids/hexagons/)
